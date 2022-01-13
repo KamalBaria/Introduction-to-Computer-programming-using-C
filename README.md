@@ -1,14 +1,28 @@
-## Introduction-to-Computer-programming-using-C
-Made to share projects related to "C-language" programming, from Semester-1 of My college
+# HEY-HEY :hand:
+This is Kamal Baria
 
-# Index C programs
+## Introduction-to-Computer-programming-using-C
+  This Repository was made Mainly to Showcase my work/code made while learning "C-Language" during First Semester of my college.
+  
+  Repository Includes many Programs made in Code:Block.   
+     
+## Projects Includes Programs Related to
   1. Introduction/Basics: (printf/scanf, variable, data types, operators etc.)
-  3. Loops
-  4. Array & Strings
-  5. Functions
-  6. Pointers
-  7. Structures & Unions
-  8. 
+  2. Loops
+  3. Array & Strings
+  4. Functions
+  5. Pointers
+  6. Structures & Unions
+  7. Practicals Submission
+
+Projects can be downloaded as zip and extracted. Can be opened in any Code editor supporting C Language or word docs like Notepad.
+
+## References
+Javatpoint: https://www.javatpoint.com/c-programming-language-tutorial
+SoloLearn: https://www.sololearn.com/learning/1089
+TutorialPoint: https://www.tutorialspoint.com/cprogramming/index.htm
+Programiz: https://www.programiz.com/c-programming
+Programiz Online Complier: https://www.programiz.com/c-programming/online-compiler/
 
 
 ### Course Syllabus
@@ -20,3 +34,5 @@ Made to share projects related to "C-language" programming, from Semester-1 of M
   6. Structures and Unions
   7. Pointers
   
+![](https://img.shields.io/badge/Language-C-blueviolet)
+![](https://img.shields.io/badge/CodeBlock-20.03-blueviolet)
