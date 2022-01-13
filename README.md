@@ -1,6 +1,3 @@
-# HEY-HEY :hand:
-This is Kamal Baria
-
 ## Introduction-to-Computer-programming-using-C
   This Repository was made Mainly to Showcase my work/code made while learning "C-Language" during First Semester of my college.
   
@@ -19,13 +16,18 @@ Projects can be downloaded as zip and extracted. Can be opened in any Code edito
 
 ## References
 Javatpoint: https://www.javatpoint.com/c-programming-language-tutorial
+
 SoloLearn: https://www.sololearn.com/learning/1089
+
 TutorialPoint: https://www.tutorialspoint.com/cprogramming/index.htm
+
 Programiz: https://www.programiz.com/c-programming
+
 Programiz Online Complier: https://www.programiz.com/c-programming/online-compiler/
 
+Code::Block: https://www.codeblocks.org/
 
-### Course Syllabus
+## Course Syllabus
   1. Introduction to computer and programming
   2. Overview of C
   3. Array & String
@@ -35,4 +37,4 @@ Programiz Online Complier: https://www.programiz.com/c-programming/online-compil
   7. Pointers
   
 ![](https://img.shields.io/badge/Language-C-blueviolet)
-![](https://img.shields.io/badge/CodeBlock-20.03-blueviolet)
+![](https://img.shields.io/badge/Code::Block-20.03-blueviolet)
