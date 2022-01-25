@@ -11,8 +11,7 @@
   2. Loops
   3. Array & Strings
   4. Functions
-  5. Pointers
-  6. Structures & Unions
+  5. Pointers ,Structures & Unions
   7. Practical Submission
 
 Projects can be downloaded as zip and extracted. Can be opened in any Code editor supporting C Language or word docs like Notepad.
