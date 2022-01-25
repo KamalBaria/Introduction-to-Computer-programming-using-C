@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/Language-C-blueviolet)
 ![](https://img.shields.io/badge/Code::Block-20.03-blueviolet)
 
-  This Repository was made Mainly to Showcase my work/code made while learning "C-Language" during First Semester of my college.
+  This Repository was made Mainly to Showcase my work/code made while learning "C-Language" during First Semester of college.
   
   Repository Includes many Programs made in Code:Block.   
      
