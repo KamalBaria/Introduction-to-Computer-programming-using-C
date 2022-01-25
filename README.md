@@ -17,17 +17,17 @@
 Projects can be downloaded as zip and extracted. Can be opened in any Code editor supporting C Language or word docs like Notepad.
 
 ## References
-Javatpoint: https://www.javatpoint.com/c-programming-language-tutorial
+[Javatpoint](https://www.javatpoint.com/c-programming-language-tutorial)
 
-SoloLearn: https://www.sololearn.com/learning/1089
+[SoloLearn](https://www.sololearn.com/learning/1089) 
 
-TutorialPoint: https://www.tutorialspoint.com/cprogramming/index.htm
+[TutorialPoint](https://www.tutorialspoint.com/cprogramming/index.htm) 
 
-Programiz: https://www.programiz.com/c-programming
+[Programiz](https://www.programiz.com/c-programming) 
 
-Programiz Online Complier: https://www.programiz.com/c-programming/online-compiler/
+[Programiz Online Complier](https://www.programiz.com/c-programming/online-compiler/) 
 
-Code::Block: https://www.codeblocks.org/
+[Code::Block](https://www.codeblocks.org/) 
 
 ## Course Syllabus
   1. Introduction to computer and programming
